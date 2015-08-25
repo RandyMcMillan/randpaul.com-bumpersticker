@@ -1,5 +1,4 @@
-
-
+Submission for: [https://www.randpaul.com/bumpersticker](https://www.randpaul.com/bumpersticker) 
 
 ![image](https://raw.githubusercontent.com/RandyMcMillan/randpaul.com-bumpersticker/master/Circle_5in.png)
 
