@@ -3,6 +3,8 @@
 
 ![image](https://raw.githubusercontent.com/RandyMcMillan/randpaul.com-bumpersticker/master/Circle_5in.png)
 
+![image](https://raw.githubusercontent.com/RandyMcMillan/randpaul.com-bumpersticker/master/Square_5in.png)
+
 
 ![image](https://raw.githubusercontent.com/RandyMcMillan/randpaul.com-bumpersticker/master/Stand2.png)
 
